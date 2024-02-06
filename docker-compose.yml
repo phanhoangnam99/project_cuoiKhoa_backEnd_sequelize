@@ -35,4 +35,4 @@ volumes:
   mysql_db:
     driver: local
 networks:
-  node-network:
+  node-network
